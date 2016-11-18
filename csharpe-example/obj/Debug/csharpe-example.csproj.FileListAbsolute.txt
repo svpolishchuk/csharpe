@@ -1,0 +1,12 @@
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\obj\Debug\csharpe-example.csprojResolveAssemblyReference.cache
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\csharpe-example.dll
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\csharpe-example.pdb
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\nunit.framework.dll
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\WebDriver.dll
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\WebDriver.Support.dll
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\nunit.framework.xml
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\WebDriver.xml
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\WebDriver.Support.xml
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\obj\Debug\csharpe-example.dll
+D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\obj\Debug\csharpe-example.pdb
