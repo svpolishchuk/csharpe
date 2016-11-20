@@ -10,3 +10,14 @@ D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\WebDriver.xml
 D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\bin\Debug\WebDriver.Support.xml
 D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\obj\Debug\csharpe-example.dll
 D:\SeleniumOrg\csharpe\csharpe-example\csharpe-example\obj\Debug\csharpe-example.pdb
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\csharpe-example.dll
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\csharpe-example.pdb
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\nunit.framework.dll
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\WebDriver.dll
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\WebDriver.Support.dll
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\nunit.framework.xml
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\WebDriver.xml
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\bin\Debug\WebDriver.Support.xml
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\obj\Debug\csharpe-example.csprojResolveAssemblyReference.cache
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\obj\Debug\csharpe-example.dll
+C:\QASeleniumJava\GitHub\csharpe\csharpe-example\obj\Debug\csharpe-example.pdb

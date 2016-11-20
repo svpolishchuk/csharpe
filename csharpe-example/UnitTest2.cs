@@ -6,28 +6,30 @@ using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Support.UI;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace csharp_example
+namespace csharpe_example
 {
     [TestFixture]
-    public class MyFirstTest
+    public class LitecardAdminLogin
     {
+
         private ChromeDriver driver;
         private WebDriverWait wait;
 
         [SetUp]
-        public void start()
+        public void Start()
         {
             driver = new ChromeDriver();
-            wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            wait = new WebDriverWait(driver,TimeSpan.FromSeconds(10));
         }
 
         [Test]
-        public void FirstTest()
+        public void AdminLogin()
         {
-            driver.Url = "http://www.google.com/";
-            driver.FindElement(By.Name("q")).SendKeys("webdriver");
-            driver.FindElement(By.Name("btnG")).Click();
-            wait.Until(ExpectedConditions.TitleIs("webdriver - Пошук Google"));
+            driver.Url = "http://localhost/litecart/admin/login.php";
+            driver.FindElement(By.Name("username")).SendKeys("admin");
+            driver.FindElement(By.Name("password")).SendKeys("admin");
+            driver.FindElement(By.Name("login")).Click();
+            wait.Until(ExpectedConditions.TitleIs("My Store"));
         }
 
         [TearDown]
