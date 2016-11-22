@@ -3,6 +3,7 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.IE;
+using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -12,13 +13,13 @@ namespace csharpe_example
     public class LitecardAdminLogin
     {
 
-        private ChromeDriver driver;
+        private FirefoxDriver driver;
         private WebDriverWait wait;
 
         [SetUp]
         public void Start()
         {
-            driver = new ChromeDriver();
+            driver = new FirefoxDriver();
             wait = new WebDriverWait(driver,TimeSpan.FromSeconds(10));
         }
 
